@@ -17,10 +17,16 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="Android logo"  />
   <img width="12" />
+  <img src="https://github.com/HK-Gupta/HK-Gupta/assets/116277672/e4ab98c1-9f9c-49b0-ba41-78d31ebacdac" height="30" alt="Java Logo"/>
+  <img width="12"/>
+  <img src="https://github.com/HK-Gupta/HK-Gupta/assets/116277672/252bef8a-4371-4ff3-aa26-8343720eb299" height="30" alt="Kotlin"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C logo"  />
+  <img src="https://github.com/HK-Gupta/HK-Gupta/assets/116277672/7cf69661-b47e-4c0c-afe5-1e7d353817f2" height="30" alt="C++ logo"  />
   <img width="12" />
+  <img src="https://github.com/HK-Gupta/HK-Gupta/assets/116277672/49b4d9fa-64d0-463b-9699-4e5754ea3e5e" height="30" alt="My Sql"/>
+  <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux logo"  />
 </div>
 
